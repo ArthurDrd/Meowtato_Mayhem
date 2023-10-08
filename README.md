@@ -8,3 +8,7 @@ Gameplay : Local mutiplayer (3 to 4 people recommended)
 - Move with WASD or with the controler joystick.
 
 This game was made during the WonderJam Fall 2023  where the theme was : "Hot Potato".
+
+## License
+
+This project is licensed under the MIT License.
